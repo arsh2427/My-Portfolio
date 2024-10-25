@@ -94,9 +94,7 @@ section{
     width: auto;
     height: 450px;
     border-radius: 20px;
-    margin-right: 2px;
-    margin-left: 110px;
-    margin-top: 40px;
+    margin: 10% auto;
 }
 
 .home-text{
@@ -383,6 +381,7 @@ form .send-btn:hover{
     }
     section{
         padding: 50px 4% 50px;
+        margin-top: 15%;
     }
     .ending{
         padding: 15px 4%;
